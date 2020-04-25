@@ -11,9 +11,13 @@ There are four collection data types in the Python programming language:
 # Dictionary is a collection which is unordered, changeable and indexed. No duplicate members
 
 """
-
 """
+[] = list
+() = tuple
+{} = dictionary
+
 # List: List is a collection which is ordered and changeable. Allows duplicate members.
+# A list is a collection which is ordered and changeable. In Python lists are written with square brackets[].
 """
 
 # Creating list
