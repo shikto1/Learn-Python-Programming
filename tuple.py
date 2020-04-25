@@ -45,8 +45,7 @@ else:
 # Tuple length:
 print(len(names))
 
-# Remove from tuple
-
+# Remove from tuple, There is no pop or remove method for tuple as it is unchangeable.
 
 # Join two tuple
 tuple1 = (1, 2)
@@ -86,5 +85,10 @@ List vs Tuple
 ** List has more functionality than the tuple
 
 ** List is better for performing operation
+
+** Tuples are fixed size in nature whereas lists are dynamic.
+
+** u can't remove elements from a tuple. Tuples have no remove or pop method.
+
 
 """
