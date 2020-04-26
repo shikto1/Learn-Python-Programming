@@ -31,7 +31,6 @@ f = lambda a, b: a + b
 result = f(5, 5)
 print(result)
 
-
 # Example : 03
 full_name = lambda fName, lName: f"{fName.strip()} {lName.strip()}"
 print(full_name("Shikto        ", "     Shishir"))
